@@ -46,7 +46,8 @@
     "LogInWithGoogle": "Log in with Google",
     "LogInWithGithub": "Log in with Github",
     "LogInWithDiscord": "Log in with Discord",
-    "signInWith": "Sign in with:"
+    "signInWith": "Sign in with:",
+    "loginAsGuestButtonText": "Login as guest"
   },
   "workspace": {
     "chooseWorkspace": "Choose your workspace",
@@ -230,7 +231,8 @@
     "helpCenter": "Help Center",
     "OK": "Ok",
     "Done": "Done",
-    "Cancel": "Cancel"
+    "Cancel": "Cancel",
+    "tryAGain": "Try again"
   },
   "label": {
     "welcome": "Welcome!",
@@ -449,7 +451,8 @@
       "filterBy": "Filter by...",
       "typeAValue": "Type a value...",
       "layout": "Layout",
-      "databaseLayout": "Layout"
+      "databaseLayout": "Layout",
+      "Properties": "Properties"
     },
     "textFilter": {
       "contains": "Contains",
